@@ -10,8 +10,9 @@
 ###### `wget -P /www/server/panel/config https://raw.githubusercontent.com/aaPanel-russian/Russian/main/www/server/panel/config/menu.json`
 
 ## 2 - Изменение языка в конфиге панели
-Вносим правку в конфиг панели
+Вносим правки в конфиг панели
 ###### `sed -i 's/English/Russian/g' /www/server/panel/config/config.json`
+###### `sed -i '/{"name":"English","title":"English"}/a {"name":"Russian","title":"Russian"}' /www/server/panel/BTPanel/static/language/list.json`
 
 ## 3 - Загружаем и распаковываем архив с языковыми файлами
 Загружаем
