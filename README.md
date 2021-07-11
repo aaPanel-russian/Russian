@@ -14,3 +14,8 @@
 ###### `sed -i 's/English/Russian/g' /www/server/panel/config/config.json`
 
 ## 3 - Загружаем и распаковываем архив с языковыми файлами
+Загружаем
+###### `wget -P /www/server/panel/BTPanel/static/language/ https://github.com/aaPanel-russian/Russian/releases/download/0-01/Russian.zip`
+Распаковываем
+###### `cd /www/server/panel/BTPanel/static/language`
+###### `unzip Russian.zip`
