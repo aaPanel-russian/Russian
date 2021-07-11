@@ -1,0 +1,87 @@
+[
+  {
+    "title": "Главная",
+    "href": "/",
+    "class": "menu_home",
+    "id": "memuA",
+    "sort": 1
+  },
+  {
+    "title": "Веб-сайты",
+    "href": "/site",
+    "class": "menu_web",
+    "id": "memuAsite",
+    "sort": 2
+  },
+  {
+    "title": "FTP",
+    "href": "/ftp",
+    "class": "menu_ftp",
+    "id": "memuAftp",
+    "sort": 3
+  },
+  {
+    "title": "Базы данных",
+    "href": "/database",
+    "class": "menu_data",
+    "id": "memuAdatabase",
+    "sort": 4
+  },
+  {
+    "title": "Монитор",
+    "href": "/control",
+    "class": "menu_control",
+    "id": "memuAcontrol",
+    "sort": 5
+  },
+  {
+    "title": "Безопасность",
+    "href": "/firewall",
+    "class": "menu_firewall",
+    "id": "memuAfirewall",
+    "sort": 6
+  },
+  {
+    "title": "Файлы",
+    "href": "/files",
+    "class": "menu_folder",
+    "id": "memuAfiles",
+    "sort": 7
+  },
+  {
+    "title": "Терминал",
+    "href": "/xterm",
+    "class": "menu_xterm",
+    "id": "memuAxterm",
+    "sort": 8
+  },
+  {
+    "title": "Планировщик",
+    "href": "/crontab",
+    "class": "menu_day",
+    "id": "memuAcrontab",
+    "sort": 9
+  },
+
+  {
+    "title": "Приложения",
+    "href": "/soft",
+    "class": "menu_soft",
+    "id": "memuAsoft",
+    "sort": 10
+  },
+  {
+    "title": "Настройки",
+    "href": "/config",
+    "class": "menu_set",
+    "id": "memuAconfig",
+    "sort": 11
+  },
+  {
+    "title": "Выход",
+    "href": "/login?dologin=True",
+    "class": "menu_exit",
+    "id": "dologin",
+    "sort": 12
+  }
+]
