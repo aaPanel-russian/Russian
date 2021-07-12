@@ -20,3 +20,5 @@
 Распаковываем
 ###### `cd /www/server/panel/BTPanel/static/language`
 ###### `unzip Russian.zip`
+
+Делаем перезапуск aaPanel.
