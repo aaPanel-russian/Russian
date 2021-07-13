@@ -135,7 +135,7 @@ var lan = {
 		"check_this_version_log":"Просмотреть журнал текущей версии",
 		"bt_linux":"aaPanel Linux",
 		"release_time":"Дата релиза: ",
-		"last_version_is":"Последняя версия ",
+		"last_version_is":" Последняя версия ",
 		"update_time":"Время обновления",
 		"update_verison_click":"Для обновления до версии Beta, нажмите ",
 		"check_detail":"подробности",
