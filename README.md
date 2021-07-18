@@ -16,7 +16,7 @@
 
 ## 3 - Загружаем и распаковываем архив с языковыми файлами
 Загружаем
-###### `wget -P /www/server/panel/BTPanel/static/language/ https://github.com/aaPanel-russian/Russian/releases/download/0-01/Russian.zip`
+###### `wget -P /www/server/panel/BTPanel/static/language/ https://github.com/aaPanel-russian/Russian/releases/download/0.1/Russian.zip`
 Распаковываем
 ###### `cd /www/server/panel/BTPanel/static/language`
 ###### `unzip Russian.zip`
