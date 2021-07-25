@@ -49,26 +49,26 @@
 	},
 
 	"site":{
-		"H1":"Dashboard",
-		"H2":"Site Manager",
-		"SEARCH":"Site search",
+		"H1":"Главная",
+		"H2":"Управление сайтами",
+		"SEARCH":"Поиск сайтов",
 		"PS":"After the website is created, the file owner will be set to [www], you can add your backup plan in ",
-		"BTN1":"Add site",
-		"BTN2":"Default page",
-		"BTN3":"Default WebSite",
-		"BTN4":"Delete",
-		"BTN5":"Category manager",
-		"TH1":"Domain",
-		"TH2":"Site status",
-		"TH3":"Backup",
-		"TH4":"Site directory",
-		"TH5":"Date expired",
-		"TH6":"Notes",
-		"TH7":"Action",
-		"JS1":"Pls install web server first!",
-		"JS2":"Install",
-		"MOVE_TO":"Move to",
-		"PHP_CLI_VER":"PHP CLI version"
+		"BTN1":"Добавить веб-сайт",
+		"BTN2":"Страница по умолчанию",
+		"BTN3":"Веб-сайт по умолчанию",
+		"BTN4":"Удалить",
+		"BTN5":"Категории",
+		"TH1":"Домен",
+		"TH2":"Статус",
+		"TH3":"Бэкап",
+		"TH4":"Директория сайта",
+		"TH5":"Истекает",
+		"TH6":"Примечание",
+		"TH7":"Действие",
+		"JS1":"Сначала установите веб-сервер!",
+		"JS2":"Установить",
+		"MOVE_TO":"Переместить в",
+		"PHP_CLI_VER":"PHP CLI версия"
 	},
 
 	"ftp":{
@@ -76,7 +76,7 @@
 		"H2":"FTP Manager",
 		"SEARCH":"FTP search",
 		"PS":"FTP address：",
-		"BTN1":"Add FTP",
+		"BTN1":"Добавить FTP",
 		"BTN2":"Change FTP port",
 		"BTN3":"Delete",
 		"TH1":"User",
@@ -94,7 +94,7 @@
 		"H1":"Dashboard",
 		"H2":"Database Manager",
 		"SEARCH":"Database search",
-		"BTN1":"Add database",
+		"BTN1":"Добавить базу данных",
 		"BTN2":"root password",
 		"BTN3":"phpMyAdmin",
 		"BTN4":"Delete",
@@ -381,21 +381,21 @@
 	},
 
 	"menu":{
-		"M1":"Главная",
-		"M2":"Веб-сайты",
+		"M1":"Dashboard",
+		"M2":"Site",
 		"M3":"FTP",
-		"M4":"Базы данных",
-		"M5":"Монитор",
-		"M6":"Безопасность",
-		"M7":"Файлы",
-		"M8":"Планировщик",
-		"M9":"Приложения",
-		"M10":"Настройки",
-		"M11":"Выход",
-		"HELP":"Для поддержки | Предложений посетите форум aaPanel"
+		"M4":"DB",
+		"M5":"Monitor",
+		"M6":"Security",
+		"M7":"File",
+		"M8":"Cron",
+		"M9":"Software Store",
+		"M10":"Setting",
+		"M11":"Logout",
+		"HELP":"For Support|Suggestions, please visit the aaPanel Forum"
 	},
 	"layout":{
-		"tips1":"Текущая версия браузера IE слишком устарела для отображения некоторых функций, используйте другой браузер. Или, если вы используете браузер, разработанный китайской компанией, перейдите в Экстремальный режим! "
+		"tips1":"The current IE browser version is too low to display some features, please use another browser. Or if you use a browser developed by a Chinese company, please switch to Extreme Mode!"
 	}
 
 }
